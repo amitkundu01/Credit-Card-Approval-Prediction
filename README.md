@@ -28,10 +28,6 @@
   - [Deployment on streamlit](#deployment-on-streamlit)
   - [App deployed on Streamlit](#app-deployed-on-streamlit)
   - [Repository structure](#repository-structure)
-  - [Contribution](#contribution)
-  - [Blog post](#blog-post)
-  - [Project featuring](#project-featuring)
-  - [License](#license)
 
 
 
